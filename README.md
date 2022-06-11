@@ -55,8 +55,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![decision tree classifier model](ml5.1.png)
 ## Data Info:
 ![decision tree classifier model](ml5.2.png)
-## Data Isnull:
-![decision tree classifier model](ok.png)
 ## Value Counts:
 ![decision tree classifier model](okok.png)
 ## Data Head:
